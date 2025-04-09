@@ -6,5 +6,5 @@ This script installs the Realtek RTL8821AU driver and configures Wi-Fi on a mini
 
 ```
 chmod +x wifi-setup.sh
-./wifi-setup.sh
+./wifisetup.sh
 ---
